@@ -10,3 +10,14 @@ Step 1: Understand the problem
  d) Repeat this step until the end of all the numbers.this way you will know which is the smallest number.
  e) Replace the smallest number with the first number of the series 
  f) Forget about the first number and start the process with the next number. until we finish the whole list.
+
+
+Step 3: formulate the algorithm: 
+
+a) select a box 
+b)copy the first number
+c) compare it with the second number , third, fourth, etc.
+d) we put the first number in the place of the lowest number 
+e) we put the number from the selection box in the place of the first box
+f)put the next number in the selection box 
+g) repeat steps b) to f) until we finish the whole numbers list.
