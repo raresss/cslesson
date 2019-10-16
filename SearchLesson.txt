@@ -13,3 +13,12 @@ Binary search:
 2.b) if number is > than search number repeat step 1 and 2 for the first half.
 
 2.c) if number is < than search number repeat step one and step 2 for the second half.
+
+Find prime number. 
+1. divide number by 2
+2. check if rest = 0 or not
+
+2.a) if rest = 0, exit: number is not prime.
+2.b) if rest is not equal to 0 repeat step 1 & 2 by adding 1 to the previous number.
+
+3. if we reach the original number then number is prime number.
