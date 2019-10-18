@@ -1,0 +1,9 @@
+finding Prime numbers:
+
+
+ STEPS:
+1.you first divide the number (x) by 2 and see if it gives 0. it it does not, erase all the numbers that are higher than the quotient of x:2
+
+
+2.  divide x by 3 and if it does not give rest 0, then erase all the numbers that are higher than the quotient of x:3 until you reach 
+the last unerased number.
