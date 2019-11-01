@@ -1,0 +1,14 @@
+Steps:
+1. divide the inputseconds by 60 to get the number of mins 
+2.divide the mins to get the number of hours
+3. wrtite down the number of hours and the final minutes ( 1h, 5 min for example).
+
+
+
+inputsecs = 3929
+mins = inputsecs // 60
+mins = 3929//60 
+hours = mins // 60 
+finalmins = mins%60
+print(hours, ":", finalmins)
+
