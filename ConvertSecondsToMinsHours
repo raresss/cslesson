@@ -1,7 +1,7 @@
 Steps:
 1. divide the inputseconds by 60 to get the number of mins 
-2.divide the mins to get the number of hours
-3. wrtite down the number of hours and the final minutes ( 1h, 5 min for example).
+2.divide the mins by 60 to get the number of hours
+3. write down the number of hours and the final minutes ( 1h, 5 min for example).
 
 
 
